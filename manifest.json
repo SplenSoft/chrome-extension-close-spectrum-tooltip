@@ -14,5 +14,11 @@
         "https://robertsspaceindustries.com/spectrum/*"
       ]
     }
-  ]
+  ],
+  "browser_specific_settings": {
+  "gecko": {
+    "id": "{cd2f7ea7-e209-4cf2-b95c-d6f1a3ff573a}"
+  }
+}
+
 }
