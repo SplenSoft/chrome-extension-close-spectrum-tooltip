@@ -1,6 +1,8 @@
 # Spectrum tooltip fix
  Closes the broken tooltip on Star Citizen's spectrum forum. Just press the escape key.
 
+ ![image](https://github.com/user-attachments/assets/9179d69a-28d1-442c-899b-47c9800e6bf1)
+
 ## Instructions
 - Download the source code here on GitGub as a .zip.
   
