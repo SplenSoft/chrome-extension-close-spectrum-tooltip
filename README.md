@@ -1,4 +1,4 @@
-# chrome-extension-close-spectrum-tooltip
+# Spectrum tooltip fix
  Closes the broken tooltip on Star Citizen's spectrum forum. Just press the escape key.
 
 ## Instructions
