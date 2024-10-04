@@ -1,0 +1,18 @@
+{
+  "name": "Close Spectrum Tooltip",
+  "description": "Fixes a spectrum bug that keeps the tooltip showing all the time. Just press Escape.",
+  "version": "0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "closeTooltips.html",
+    "default_icon": "closeTooltips.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["main.js"],
+      "matches": [
+        "https://robertsspaceindustries.com/spectrum/*"
+      ]
+    }
+  ]
+}
