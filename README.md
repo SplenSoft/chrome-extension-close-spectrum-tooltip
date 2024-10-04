@@ -18,3 +18,6 @@
 - Click the Cog button
 - Click Debug Add-ons,
 - Click Load Temporary Add-on and select the .zip
+
+## Usage
+When the tooltip gets stuck statically on the screen and wont go away, just press escape to close it
